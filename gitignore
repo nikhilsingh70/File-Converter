@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Packaging/build outputs
+build/
+dist/
+*.spec
+*.egg-info/
+*.exe
+*.msi
+*.iss.tmp
+
+# Test/coverage/cache
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Editor/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local app settings and logs
+.syntax_converter.json
+*.log
+
+# Temporary files
+tmp/
+temp/
